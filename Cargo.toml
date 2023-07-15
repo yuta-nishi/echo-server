@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "echo_client",
+    "echo_server",
+]
